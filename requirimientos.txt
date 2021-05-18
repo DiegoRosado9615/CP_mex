@@ -4,11 +4,12 @@
 _libgcc_mutex             0.1                        main  
 aniso8601                 9.0.1              pyhd8ed1ab_0    conda-forge
 blas                      1.0                         mkl    anaconda
-ca-certificates           2020.10.14                    0    anaconda
-certifi                   2020.6.20                py37_0    anaconda
+ca-certificates           2020.12.5            ha878542_0    conda-forge
+certifi                   2020.12.5        py37h89c1867_1    conda-forge
 click                     7.1.2                      py_0    anaconda
 flask                     1.1.2                      py_0    anaconda
 flask-restful             0.3.8                      py_0    conda-forge
+gunicorn                  20.1.0           py37h89c1867_0    conda-forge
 intel-openmp              2021.2.0           h06a4308_610  
 itsdangerous              1.1.0                    py37_0    anaconda
 jinja2                    2.11.3             pyhd3eb1b0_0  
